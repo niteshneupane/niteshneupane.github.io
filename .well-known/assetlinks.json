@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.deep_link_test",
+      "package_name": "com.asparksys.rara",
       "sha256_cert_fingerprints":
       ["F6:6D:7D:A4:BA:32:CB:CD:F7:F1:63:5D:03:D1:DB:D7:A7:3C:51:69:CD:23:DD:C7:4C:89:42:86:ED:D6:0E:FB"]
     }
